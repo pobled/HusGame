@@ -1,0 +1,16 @@
+# Server version 0.08 running on Pascal:8123
+# Game ID: 1
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Mar 02 23:31:36 EST 2016
+# Player 1: Player-0, 'Human', running on Pascal
+# Player 2: Player-1, 'RandomHusPlayer', running on Pascal
+START Player-0 Human
+START Player-1 RandomHusPlayer
+PIT 0 23
+PIT 1 6
+PIT 0 22
+PIT 1 9
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Wed Mar 02 23:33:22 EST 2016

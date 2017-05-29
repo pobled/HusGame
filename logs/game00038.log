@@ -1,0 +1,13 @@
+# Server version 0.08 running on Pascal:8123
+# Game ID: 38
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Tue Apr 12 21:29:12 EDT 2016
+# Player 1: Player-0, 'RandomHusPlayer', running on Pascal
+# Player 2: Player-1, '260585900', running on Pascal
+START Player-0 RandomHusPlayer
+START Player-1 260585900
+PIT 0 18
+GAMEOVER TIMEOUT WINNER 0
+# Game ended: Tue Apr 12 21:29:46 EDT 2016
